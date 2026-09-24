@@ -151,7 +151,7 @@ The model supports interactive filtering by crop type and state.
 
 ### 1. Overview
 
-![Overview Dashboard](images/overview-dashboard.png)
+![Overview Dashboard](./Overview%20Page.png)
 
 The Overview page provides a high-level view of agricultural production
 and the broader post-harvest landscape.
@@ -172,7 +172,7 @@ crop when a crop is selected.
 
 ### 2. Loss Analysis
 
-![Loss Analysis Dashboard](images/loss-analysis-dashboard.png)
+![Loss Analysis Dashboard](./Loss%20Analysis%20Page.png)
 
 The Loss Analysis page focuses on identifying where and why produce is
 being lost.
@@ -194,7 +194,7 @@ and mold.
 
 ### 3. Transportation Analysis
 
-![Transportation Dashboard](images/transportation-dashboard.png)
+![Transport Analysis Dashboard](./Transport%20Analysis%20Page.png)
 
 The Transportation page evaluates losses and costs associated with
 moving agricultural produce from farms to markets.
@@ -213,7 +213,7 @@ It analyses:
 
 ### 4. Market Analysis
 
-![Market Analysis Dashboard](images/market-analysis-dashboard.png)
+![Market Analysis Dashboard](./Market%20Analysis%20Page.png)
 
 The Market Analysis page examines the relationship between market
 demand, supply, revenue, pricing, and unsold produce.
